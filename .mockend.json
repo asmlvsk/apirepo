@@ -1,0 +1,26 @@
+{
+  "object1": {
+    "id": 0,
+    "thumbType": "Vk",
+    "showcaseArea": "Image3",
+    "text": "description3",
+    "date": "12/12/0000",
+    "readMoreLink": "link3"
+  },
+  "object2": {
+    "id": 1,
+    "thumbType": "Vk",
+    "showcaseArea": "Image3",
+    "text": "description3",
+    "date": "12/12/0000",
+    "readMoreLink": "link3"
+  },
+    "object3": {
+    "id": 2,
+    "thumbType": "Vk",
+    "showcaseArea": "Image3",
+    "text": "description3",
+    "date": "12/12/0000",
+    "readMoreLink": "link3"
+  }
+}
